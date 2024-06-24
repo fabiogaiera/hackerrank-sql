@@ -1,2 +1,1 @@
-# hackerrank-sql
-SQL
+# SQL from HackerRank
